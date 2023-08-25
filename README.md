@@ -19,7 +19,7 @@ Proje sayımız ilerledikçe proje yönetimimizi kolaylaştırmak adına projele
  * Bir burgerci için rest api dizayn etmeniz istenmektedir.
 
 ### Amaç
- * Amacımız veritabanına ekleme yapabileceğimiz bir burger API'yı hazırlamal.
+ * Amacımız veritabanına ekleme yapabileceğimiz bir burger API'yı hazırlamak.
  * Bu Api'yi oluştururken error handling ve validation kurallarına uymalıyız.
  * Dependency Injection kurallarına uymalıyız.
  
