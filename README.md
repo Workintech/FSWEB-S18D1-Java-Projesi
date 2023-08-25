@@ -13,10 +13,10 @@ Proje sayımız ilerledikçe proje yönetimimizi kolaylaştırmak adına projele
 
  ### Başlangıç
  * Spring Initializr kullanarak bir Spring Boot projesi oluşturun.
- * İçerisinde ```Spring Web``` dependency eklenmeli.
+ * İçerisinde ```Spring Web, Spring Data Jpa, postgresql``` dependencyleri eklenmeli.
  * Maven dependency management sistemini kullanarak tüm dependencyleri install edin.
  * Uygulamanızı  ```9000``` portundan ayağa kaldırın.
- * Bir hayvanat bahçesi için rest api dizayn etmeniz istenmektedir.
+ * Bir burgerci için rest api dizayn etmeniz istenmektedir.
 
 ### Amaç
  * Amacımız veritabanına ekleme yapabileceğimiz bir burger API'yı hazırlamal.
