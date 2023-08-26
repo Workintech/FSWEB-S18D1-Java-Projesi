@@ -9,7 +9,7 @@ Proje sayımız ilerledikçe proje yönetimimizi kolaylaştırmak adına projele
 
 ### Hedeflerimiz:
 
-### Course Rest Api
+### Burger Rest Api
 
  ### Başlangıç
  * Spring Initializr kullanarak bir Spring Boot projesi oluşturun.
